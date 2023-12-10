@@ -1,0 +1,12 @@
+//
+// Created by Amir Muminovic on 10. 12. 2023..
+//
+
+#ifndef LEETCODES_94_IN_ORDER_BIN_TREE_TRAVERSAL_MAIN_H_
+#define LEETCODES_94_IN_ORDER_BIN_TREE_TRAVERSAL_MAIN_H_
+
+class main {
+
+};
+
+#endif //LEETCODES_94_IN_ORDER_BIN_TREE_TRAVERSAL_MAIN_H_
